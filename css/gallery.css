@@ -1,0 +1,34 @@
+body
+{
+	background-image:url(gallery.jpg);
+}
+header
+{
+	font-size:30px;
+	font-family:cursive;
+	text-align:center;
+}
+.box-image
+{
+	display:block;
+	float:left;
+	padding:2px;
+}
+img
+{
+	width:150px;
+	height:auto;
+	border-radius:2px;
+}
+main
+{
+	margin-left:250px;
+	margin-right:200px;
+	
+}
+img:hover
+{
+	transform:scale(2,2);
+	transition:0.4s;
+	
+}

@@ -1,0 +1,36 @@
+*
+{
+	font-family:algerian;
+	font-size:25px;
+	text-align:center;
+	
+}
+body
+{
+	background-image:url(Services.jpg)
+}
+div
+{
+	margin-top:20px;
+	align-items:center;
+	border: 2px solid red;
+	width:400px;
+	height:40px;
+	flex-direction:column;
+	margin-left:500px;
+	font-weight:bold;
+}
+.dp{color:red;background:yellow;text-shadow:2px 2px 1px #fff;}
+.dv{color:#fff;background:green;text-shadow:2px 2px 1px #000;}
+.cs{color:red;background:yellow;text-shadow:2px 2px 1px #fff;}
+.cr{color:#fff;background:green;text-shadow:2px 2px 1px #000;}
+.pt{color:red;background:yellow;text-shadow:2px 2px 1px #fff;}
+.lw{color:#fff;background:green;text-shadow:2px 2px 1px #000;}
+.dr{color:red;background:yellow;text-shadow:2px 2px 1px #fff;}
+.ps{color:#fff;background:green;text-shadow:2px 2px 1px #000;}
+.pc{color:red;background:yellow;text-shadow:2px 2px 1px #fff;}
+.lm{color:#fff;background:green;text-shadow:2px 2px 1px #000;}
+.up{color:red;background:yellow;text-shadow:2px 2px 1px #fff;}
+
+
+
